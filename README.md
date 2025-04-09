@@ -6,4 +6,4 @@
  - MULTIFFTCAT (complete ✔️ ): for the Machine Learning course project, I attempted to create a model for tackling the Hateful Memes Challenge launched by META in 2020, using data available on Hugging Face.
  - ACAXO (complete :heavy_check_mark: ): a study for mapping through an ontology the most common ideological patterns in abortion discourse on Twitter/X.
  - PANDAMIC (complete :heavy_check_mark: ): a project consisting of a python code file able to create graph and relational databases from a given dataset and to return objects based on a query.
- - PHARMACY SIDE EFFECTS (incomplete ✖️ ): a network analysis project consisting in the exploration of the graph through different metrics. The dataset shows the expected side effects associated with the concurrent use of different drugs. 
+ - PHARMACY SIDE EFFECTS (complete ✔️ ): a network analysis project consisting in the exploration of the graph through different metrics. The dataset shows the expected side effects associated with the concurrent use of different drugs. 
